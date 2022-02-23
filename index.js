@@ -1,31 +1,37 @@
-//  //console api
-//  console.log("HELLO JI");
-//  console.warn("abba dabba chabba ");
-//  console.error("error he re");
+// //  //console api
+// //  console.log("HELLO JI");
+// //  console.warn("abba dabba chabba ");
+// //  console.error("error he re");
 
- //varibles
- var a = 5;
- var b = 6;
- console.log(a+b);
+// //varibles
+// var a = 5;
+// var b = 6;
+// console.log(a + b);
 
- // data types in js
- //string
- var str1 = 'abd';
- 
- //number
- var num1 = 5.6;
- var num2 = 12;
+// // data types in js
+// //string
+// var str1 = 'abd';
 
- //objects 
- var marks = {
-     raj : 45,
-     nem : 55,
-     mew : 35
- }
- console.log(marks);
+// //number
+// var num1 = 5.6;
+// var num2 = 12;
 
- // boolen
- var aa = true;
- var b = false;
- console.log(aa)
-   
+// //objects 
+// var marks = {
+//     raj: 45,
+//     nem: 55,
+//     mew: 35
+// }
+// console.log(marks);
+
+// // boolen
+// var aa = true;
+// var b = false;
+// console.log(aa)
+
+var age = 34
+if (age > 8) {
+    console.log('you are not a kid')
+} else {
+    console.log('you are a kid')
+}
